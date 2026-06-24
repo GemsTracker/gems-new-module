@@ -4,7 +4,7 @@
   "type": "library",
   "license": "No free license, do not copy",
   "require": {
-    "php": ">=8.2.0",
+    "php": ">=8.1.0",
     "gemstracker/gemstracker": "2.x-dev",
     "gemstracker/ls3-basic-themes": "dev-main",
     "magnafacta/zalt-laminas-validator": "^1.0.5",
