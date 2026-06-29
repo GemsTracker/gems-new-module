@@ -1,0 +1,7 @@
+gems__organizations:
+  -
+    gor_id_organization: 70
+    gor_name: 'Erasmus MC'
+    gor_user_class: 'StaffUser'
+    gor_changed_by: 1
+    gor_created_by: 1
